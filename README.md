@@ -1,3 +1,3 @@
 # backend-repository
 Internship
-#Am inceputfamiliarizarea cu git!
+#Am inceput familiarizarea cu git!
